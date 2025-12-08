@@ -1,0 +1,14 @@
+C:\GitHub\Cloned Repositories\Learning-C-\App\obj\Debug\net10.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Cloned Repositories\Learning-C-\App\obj\Debug\net10.0\App.AssemblyInfoInputs.cache
+C:\GitHub\Cloned Repositories\Learning-C-\App\obj\Debug\net10.0\App.AssemblyInfo.cs
+C:\GitHub\Cloned Repositories\Learning-C-\App\obj\Debug\net10.0\App.csproj.CoreCompileInputs.cache
+C:\GitHub\Cloned Repositories\Learning-C-\App\bin\Debug\net10.0\App.exe
+C:\GitHub\Cloned Repositories\Learning-C-\App\bin\Debug\net10.0\App.deps.json
+C:\GitHub\Cloned Repositories\Learning-C-\App\bin\Debug\net10.0\App.runtimeconfig.json
+C:\GitHub\Cloned Repositories\Learning-C-\App\bin\Debug\net10.0\App.dll
+C:\GitHub\Cloned Repositories\Learning-C-\App\bin\Debug\net10.0\App.pdb
+C:\GitHub\Cloned Repositories\Learning-C-\App\obj\Debug\net10.0\App.dll
+C:\GitHub\Cloned Repositories\Learning-C-\App\obj\Debug\net10.0\refint\App.dll
+C:\GitHub\Cloned Repositories\Learning-C-\App\obj\Debug\net10.0\App.pdb
+C:\GitHub\Cloned Repositories\Learning-C-\App\obj\Debug\net10.0\App.genruntimeconfig.cache
+C:\GitHub\Cloned Repositories\Learning-C-\App\obj\Debug\net10.0\ref\App.dll
