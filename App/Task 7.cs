@@ -2,8 +2,6 @@
 display the amount  of change due to the  customer . Run your function  to  show  that it works with  a bill 
 amount  of £8.50 and an amount tendered  of £10. */
 
-using System.Diagnostics.Contracts;
-
 public static class Task7
 {
 
