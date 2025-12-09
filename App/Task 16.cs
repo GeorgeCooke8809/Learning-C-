@@ -11,7 +11,7 @@ public static class Task16
     public static void Run()
     {
         int age = -1;
-        while (age == -1)
+        while (age == -1 || age > 120)
         {
             Console.Write("Age: ");
             string? age_input = Console.ReadLine();
